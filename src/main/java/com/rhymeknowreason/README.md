@@ -1,1 +1,1 @@
-Your job is to make everything in this folder functional.
+Your job as the student is to make everything in this folder functional.
