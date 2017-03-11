@@ -4,6 +4,12 @@
     <bytecodeTargetLevel>
       <module name="homework_base_template_main" target="1.8" />
       <module name="homework_base_template_test" target="1.8" />
+      <module name="homework_week_0_main" target="1.8" />
+      <module name="homework_week_0_template_main" target="1.8" />
+      <module name="homework_week_0_template_test" target="1.8" />
+      <module name="homework_week_0_test" target="1.8" />
+      <module name="homework_week_1_template_main" target="1.8" />
+      <module name="homework_week_1_template_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
