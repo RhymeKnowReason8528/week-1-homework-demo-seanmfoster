@@ -11,4 +11,4 @@ If that's not what you see, you can look at why the test failed and fix it.
 
 Note that if there are any syntax errors anywhere in the project (including in other challenges) the tests will not be able to run, and you will not be able to run this program.
 
-You can run this program by selecting "HelloWorld" from the Run Configurations dropdown and pressing the run button next to it (once all syntax errors are dealt with).
+You can run this program by selecting "HelloWorld" from the Run Configurations dropdown and pressing the run button next to it (once all syntax errors are dealt with). 
